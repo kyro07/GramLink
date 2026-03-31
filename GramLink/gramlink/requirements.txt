@@ -1,0 +1,49 @@
+# Web Framework
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+
+# Database
+supabase==2.4.6
+postgrest==0.16.6
+
+# Environment variables
+python-dotenv==1.0.1
+
+# HTTP Requests
+requests==2.31.0
+httpx==0.27.0
+
+# Tamil Voice Generation
+gTTS==2.5.1
+
+# ML Forecasting
+greykite==1.4.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+
+# Data validation
+pydantic==2.7.1
+
+# Audio file handling
+pydub==0.25.1
+
+# Scheduling (for background tasks)
+apscheduler==3.10.4
+
+# CORS
+starlette==0.37.2
+
+fastapi
+uvicorn
+twilio
+supabase
+prophet
+gtts
+python-dotenv
+redis
+faker
+pandas
+numpy
+python-multipart
